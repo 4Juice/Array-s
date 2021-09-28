@@ -1,0 +1,41 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    justify-content: center;
+    text-align: center;
+    align-items: center;  
+    
+}
+#input-form{
+    margin-top: 300px;
+}
+#input1{
+   width: 150px;
+   height: 25px;
+   font-size: 25px;
+}
+#btn{
+    height: 35px;
+    font-size: 25px;
+    cursor: pointer;
+
+}
+#fisrt-delete-btn{
+    display: none;
+    
+}
+
+#first-delete{
+    font-size: 30px;
+    margin-top: 50px;
+    color: red;
+}
+/* #second-delete{
+    font-size: 30px;
+    margin-top: 50px;
+    color: red;
+}
+#second-delete-btn{
+    display: none;
+    
+} */
